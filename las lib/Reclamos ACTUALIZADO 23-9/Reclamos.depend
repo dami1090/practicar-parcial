@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1506173162 source:c:\users\alumno\desktop\reclamos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506174161 source:c:\users\alumno\desktop\reclamos actualizado 23-9\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506776844 source:e:\practicas de el primer cuatrimestre\reclamos actualizado 23-9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1506776844 e:\practicas de el primer cuatrimestre\reclamos actualizado 23-9\lib.h
+
+1506776889 source:f:\practicas de el primer cuatrimestre\reclamos actualizado 23-9\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1506776844 f:\practicas de el primer cuatrimestre\reclamos actualizado 23-9\lib.h
+
